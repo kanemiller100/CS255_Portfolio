@@ -9,7 +9,7 @@ The DriverPass project involved designing a system for a client who wanted an on
 I excelled at gathering and documenting the user requirements in the business requirements document. The document clearly reflected the client’s needs and aligned all stakeholders on the project scope and objectives.
 
 ### What Could Be Improved
-If I could revise one part of my work, it would be the system design document. While the design met the project requirements, the diagrams could have been more detailed and standardized using tools like UML to improve clarity and communication.
+If I could revise one part of my work, it would be the system design document. While the design met the project requirements, the diagrams could have been more detailed and standardized to improve clarity and communication.
 
 ### Interpreting and Implementing User Needs
 I thoroughly analyzed the client’s requirements and translated them into system functionalities, such as customizable practice tests and a user-friendly scheduling feature. Considering the user’s needs is crucial, as it ensures the system is both functional and user-centric, ultimately leading to greater user satisfaction and adoption.
